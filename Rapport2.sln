@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rapport2", "Rapport2\Rapport2.csproj", "{F575D2D6-880E-49AE-BB78-CC4605DD4C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{AD2BC79F-53AE-48E2-9C22-8002E663751D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F575D2D6-880E-49AE-BB78-CC4605DD4C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F575D2D6-880E-49AE-BB78-CC4605DD4C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F575D2D6-880E-49AE-BB78-CC4605DD4C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F575D2D6-880E-49AE-BB78-CC4605DD4C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2BC79F-53AE-48E2-9C22-8002E663751D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2BC79F-53AE-48E2-9C22-8002E663751D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2BC79F-53AE-48E2-9C22-8002E663751D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2BC79F-53AE-48E2-9C22-8002E663751D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC1FE9B-1018-47D3-A6E2-8D9B7502BB40}
+	EndGlobalSection
+EndGlobal
